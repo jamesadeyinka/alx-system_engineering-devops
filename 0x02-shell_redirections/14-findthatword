@@ -1,0 +1,2 @@
+#!/bin/bashshh
+egrep "root" /etc/passwd
